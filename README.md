@@ -1,1 +1,1 @@
-# my_pet_project
+# Epam_Course_Git
